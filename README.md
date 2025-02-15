@@ -1,7 +1,8 @@
 # 📊 Netflix Data Analysis
 
 ## 📌 Overview
-This project involves analyzing a Netflix dataset using SQL queries to extract insights related to movies, TV shows, ratings, genres, and actors.
+This project involves analyzing a Netflix dataset using SQL queries to extract insights related to movies, TV shows, ratings, genres, and actors.  
+[Project_file](sql_query.sql)
 
 ## 📂 Database & Table Structure 
 **Database:** `Netflix`
